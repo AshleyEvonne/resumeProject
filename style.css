@@ -1,0 +1,94 @@
+
+
+.parent-contanier{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: auto;
+    box-shadow: 2px 2px 2px 2px rgba(134, 133, 133);
+    width: 50%;
+    margin: auto;
+    
+
+}
+body{
+    background-color: beige;
+
+}
+
+.blue-container{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: rgb(17, 82, 168);
+    position: left;
+    color: beige;
+    padding-left: 8px;
+    padding-right: 8px;
+    box-shadow: 2px 2px 2px 2px rgb(119, 117, 117) ;
+}
+
+.blue-container h1{
+    font-family:serif;
+    color: beige;
+    letter-spacing: 4px;
+    
+
+}
+.blue-container hr{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.blue-container h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: -3px;
+
+}
+
+.blue-container li{
+    line-height: 25px;
+}
+
+.blue-container P{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+a{
+    color: white;
+}
+
+
+
+.White-container{
+    margin-left: 10px;
+    text-align: center;
+    box-shadow: 2px gray;
+    
+}
+.White-container p{
+    line-height: 25px;
+}
+
+.White-container h1{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.White-container h3{
+    margin-bottom: -10px;
+}
+
+.White-container h4{
+    margin-bottom: -20px;
+}
+
+.White-container h5{
+    color: gray;
+
+}
+
+
+
